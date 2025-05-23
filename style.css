@@ -1,0 +1,102 @@
+.a1{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+header img{
+    
+    width: 2000x;
+    height: 430px;
+    
+}
+
+
+.a2 h1{
+    color: white;
+}
+
+.a3 h1{
+color: white;
+font-size: 30px;
+width: 277px;
+height: 96px;
+}
+
+
+main h1{
+    text-align: center;
+    color: black;
+}
+
+
+.e1{
+
+display: flex;
+justify-content: space-around;
+
+
+
+
+}
+
+
+h3{
+    font-size: 20px;
+}
+
+.s1{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.f1{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.r2{
+    display: flex;
+}
+
+.e1 p{
+    text-align: center;
+
+}
+
+.s1 p{
+    text-align: center;
+    
+
+}
+
+.f1 p{
+    text-align: center;
+    
+
+}
+
+.r1{
+    margin-top: 60px;
+}
+
+.e2{
+    box-shadow: 0px 17px 27px -4px #00000040;
+}
+
+.s2{
+    box-shadow: 0px 17px 27px -4px #00000040;
+
+}
+
+.f2{
+    box-shadow: 0px 17px 27px -4px #00000040;
+
+}
